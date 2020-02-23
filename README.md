@@ -3,8 +3,6 @@
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
- 
-I was tasked with analyzing current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand the findings.
 
 To elicit health risks facing particular demographics I sifted through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
