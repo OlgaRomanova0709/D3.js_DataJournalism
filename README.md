@@ -6,7 +6,7 @@
 
 To elicit health risks facing particular demographics I sifted through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
-Data set: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml). The current data set incldes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
+Data set: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml). The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
 ## My Task
 
